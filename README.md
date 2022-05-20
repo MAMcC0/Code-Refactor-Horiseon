@@ -14,4 +14,18 @@
  ![Screenshots of the working Horieseon app](./assets/images/img2.png) 
  ![Screenshots of the working Horieseon app](./assets/images/img3.png) 
 
-Live website link: https://mamcc0.github.io/Code-Refactor-Horiseon/
+
+##Technologies Used
+
+- HTML
+- CSS
+
+
+
+
+##Links
+
+
+- Live website link: https://mamcc0.github.io/Code-Refactor-Horiseon/
+
+- Repository link: https://github.com/MAMcC0/Code-Refactor-Horiseon
