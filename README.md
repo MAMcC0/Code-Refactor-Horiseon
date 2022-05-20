@@ -15,7 +15,7 @@
  ![Screenshots of the working Horieseon app](./assets/images/img3.png) 
 
 
-##Technologies Used
+## Technologies Used
 
 - HTML
 - CSS
@@ -23,7 +23,7 @@
 
 
 
-##Links
+## Links
 
 
 - Live website link: https://mamcc0.github.io/Code-Refactor-Horiseon/
